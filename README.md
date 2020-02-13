@@ -1,18 +1,15 @@
 # Targeted Learning Workshops at 2019 Deming Conference on Applied Statistics
 
-Welcome to the GitHub repository accompanying the half-day tutorial and 2-day 
-short course on Targeted Learning, given at the Deming Conference on Applied 
+Welcome to the GitHub repository accompanying the two-day tutorial, given at the Deming Conference on Applied 
 Statistics, December 4-6, 2019. 
 
-## Half-Day Tutorial on December 4, 2019
 
-* 9:00A-10:30A: Overview of Targeted (Machine) Learning 
-* 10:30A-10:45P: Break
-* 10:45A-12:00P: TMLE for the Causal Impact of a Single 
-      Time-Point Intervention on Survival with Software Exercise in `R`
+## Introduction of Speakers 
 
-## 2-Day Short Course on December 5-6, 2019
-### Day 1: December 5, 2019  
+
+
+## 2-Day Short Course on April 3-4, 2020
+### Day 1: Feb 5, 2019  
 
 * 8:00A-9:30A: Overview of Targeted (Machine) Learning 
 * 9:30A-9:50A: Break
