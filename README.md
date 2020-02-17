@@ -13,7 +13,7 @@ Additionally, the program will feature a symposium where guest speakers will hig
 ### Chris Vargo
 
 
-## 2-Day Short Course on April 3-4, 2020
+## 2-Day Workshop on April 3-4, 2020
 ### Day 1: April 3, 2020 
 
 * 9:00A-10:30A: Web scraping + API (Margaret Ng) 
