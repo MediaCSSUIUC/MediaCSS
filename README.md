@@ -1,54 +1,33 @@
-# Targeted Learning Workshops at 2019 Deming Conference on Applied Statistics
+# Computational Methods in the Study of Media: An Introductory Workshop And Research Symposium
 
-Welcome to the GitHub repository accompanying the two-day tutorial, given at the Deming Conference on Applied 
-Statistics, December 4-6, 2019. 
+Scholars and analysts of media, regardless of whether in advertising, journalism, or media studies, find themselves confronting a deluge of available (digital) data. We propose to organize a two-day workshop in introductory CSS which would introduce graduate students (both MA and Ph.D.), advanced undergraduates, and interested faculty in media on how to obtain, organize, and analyze commonly available data from online sources, on April 3-4, 2020.
+
+Additionally, the program will feature a symposium where guest speakers will highlight issues about access, privacy, ethics, and confidentiality raised by the emergence of digital trace data and use of computational methods. The workshop will also serve as an opportunity for participants to network with scholars with similar substantive interests in media but expertise in computational methods.
 
 
 ## Introduction of Speakers 
+### Michael Kearney
 
+### Jennifer Pan
+
+### Chris Vargo
 
 
 ## 2-Day Short Course on April 3-4, 2020
-### Day 1: Feb 5, 2019  
+### Day 1: April 3, 2020 
 
-* 8:00A-9:30A: Overview of Targeted (Machine) Learning 
-* 9:30A-9:50A: Break
-* 9:50A-11:20P: Causal Inference and Interventions
-* 11:20A-12:40P: Lunch
-* 12:40P-2:10P: Super (Machine) Learning and Targeted Minimum Loss-Based 
-  Estimation 
-* 2:10P-2:30P: Break
-* 2:30P-4:10P: Super Learning in the `tlverse` software ecosystem
-* 4:10P-4:40P: Break
-* 4:40P-5:50P: Super Learning in the `tlverse` software ecosystem
+* 9:00A-10:30A: Web scraping + API (Margaret Ng) 
+* 10:30A-11:00A: Break
+* 11:00A-12:30P: Text analysis (JungHwan Yang)
+* 12:30A-1:30P: Lunch + Chat with speakers
+* 1:30P-3:00P: Research Design (Jennifer Pan)
+* 3:00P-4:30P: “Web scraping” and “Text as data” (Michael Kearney)
+* 4:30P-5:30P: Break
+* 5:30P-7:00P: Dinner
 
-### Day 2: December 6, 2019  
+### Day 2: April 4, 2020  
 
-* 8:00A-9:30A: Targeted Maximum Likelihood Estimation
-* 9:30A-10:00A: Break
-* 10:00A-11:20A: Targeted Maximum Likelihood Estimation of the Average Treatment 
-  Effect in the `tlverse` software ecosystem
-* 11:20A-11:40A: Lunch
-* 11:40A-1:10P: Targeted Minimum Loss-Based Estimation of Time-to-Event 
-  Outcomes with `MOSS` and Targeted Minimum Loss-Based Estimation for 
-  Longitudinal Data with `ltmle`
-
-Most of the software materials are based on an 
-early draft of the (eventually forthcoming) book **The Hitchhiker's Guide to the 
-`tlverse`, or a Targeted Learning Practitioner's Handbook**, by Mark van der 
-Laan, Alan Hubbard, Jeremy Coyle, Nima Hejazi, Ivana Malenica, and Rachael 
-Phillips. For a work-in-progress draft of the unabridged book, please see 
-https://tlverse.org/tlverse-handbook or the associated GitHub 
-repository: https://github.com/tlverse/tlverse-handbook.
-
-[![Travis-CI Build Status](https://travis-ci.com/tlverse/deming2019-workshop.svg?branch=master)](https://travis-ci.com/tlverse/deming2019-workshop)
-Note: `travis-ci` currently deploys the developmental version of this workshop
-handbook into the `gh-pages` branch of this repository, which is hosted by
-GitHub Pages at https://tlverse.org/deming2019-workshop.
-
-The software materials are automatically built and deployed using
-[Binder](https://github.com/jupyterhub/binderhub), which supports using R
-and RStudio, with libraries pinned to a specific snapshot on
-[MRAN](https://mran.microsoft.com/documents/rro/reproducibility). An
-RStudio session, pre-loaded with all the materials, is available via
-[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/tlverse/deming2019-workshop/master?urlpath=rstudio)
+* 9:00A-10:30A: Network analysis (Harsh Taneja)
+* 10:30A-11:00A: Break
+* 11:00A-12:30P: Web data/Textual (Chris Vargo)
+* 12:30A-1:30P: Lunch + Chat with speakers
