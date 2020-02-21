@@ -24,7 +24,7 @@ Saudi Arabia has imprisoned and tortured activists, religious leaders, and journ
 
 || April 3rd, 2020  (Fri)  | April 4th, 2020  (Sat)|
 | ----------------------- | :-------------: | :-------------: |
-| 9:30 am - 10:45 am |**Introductory Workshop: Web Scraping  + API** Dr. Margaret Ng, Department of Journalism|**Introductory Workshop: Network Analysis** Dr. Harsh Taneja, Department of Advertising  |
+| 9:30 am - 10:45 am |**Introductory Workshop: Web Scraping  + API** \\ Dr. Margaret Ng, Department of Journalism|**Introductory Workshop: Network Analysis** Dr. Harsh Taneja, Department of Advertising  |
 | 10:45 am - 11am | *Break*  |
 | 11 am - 12:15 pm | **Introductory Workshop: Text Analysis** Dr. JungHwan Yang, Department of Communication  |**Research Talk:** Dr. Chris Vargo, University of Colorado Boulder |
 | 12:30 pm - 1:30 pm | *Lunch (provided)* | *Lunch (provided)*  |
