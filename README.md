@@ -24,13 +24,13 @@ Saudi Arabia has imprisoned and tortured activists, religious leaders, and journ
 
 || April 3rd, 2020  (Fri)  | April 4th, 2020  (Sat)|
 | ----------------------- | :-------------: | :-------------: |
-| 9:30 am - 10:45 am |**Introductory Workshop: Web Scraping  + API** <br/> Dr. Margaret Ng, Department of Journalism|**Introductory Workshop: Network Analysis** Dr. Harsh Taneja, Department of Advertising  |
+| 9:30 am - 10:45 am |**Introductory Workshop: Web Scraping  + API** <br/> Dr. Margaret Ng, Department of Journalism|**Introductory Workshop: Network Analysis** <br/>Dr. Harsh Taneja, Department of Advertising  |
 | 10:45 am - 11am | *Break*  |
-| 11 am - 12:15 pm | **Introductory Workshop: Text Analysis** Dr. JungHwan Yang, Department of Communication  |**Research Talk:** Dr. Chris Vargo, University of Colorado Boulder |
+| 11 am - 12:15 pm | **Introductory Workshop: Text Analysis** <br/>Dr. JungHwan Yang, Department of Communication  |**Research Talk:** <br/>Dr. Chris Vargo, University of Colorado Boulder |
 | 12:30 pm - 1:30 pm | *Lunch (provided)* | *Lunch (provided)*  |
-| 1:30 pm - 2:45 pm | **Research Talk: How Saudi Crackdowns Fail to Silence Online Dissent** Dr. Jennifer Pan, Stanford University ||
+| 1:30 pm - 2:45 pm | **Research Talk: How Saudi Crackdowns Fail to Silence Online Dissent**<br/> Dr. Jennifer Pan, Stanford University ||
 | 2:45 pm - 3pm | *Break* | |
-| 3:00 pm - 4:15pm | **Research Talk:** Dr. Mike Kearney, University of Missouri ||
+| 3:00 pm - 4:15pm | **Research Talk:**<br/> Dr. Mike Kearney, University of Missouri ||
 
 ## Application Link
 https://forms.gle/bz1iGviCA4WsAWyw8
