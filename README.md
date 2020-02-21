@@ -4,6 +4,7 @@ Scholars and analysts of media, regardless of whether in advertising, journalism
 
 Additionally, the program will feature a symposium where guest speakers will highlight issues about access, privacy, ethics, and confidentiality raised by the emergence of digital trace data and use of computational methods. The workshop will also serve as an opportunity for participants to network with scholars with similar substantive interests in media but expertise in computational methods.
 
+The workshop and research symposium will take place in April 2-3, 2020 at Gregory Hall, located at 810 S Wright St, Urbana, IL 61801. Introductory Workshop will be held in Gregory Hall 123 and research symposium will be held in Gregory Hall 100.
 
 ## Introduction of Speakers 
 ### Michael Kearney
