@@ -33,4 +33,5 @@ Saudi Arabia has imprisoned and tortured activists, religious leaders, and journ
 | 3:00 pm - 4:15pm | **Research Talk:**<br/> Dr. Mike Kearney, University of Missouri ||
 
 ## Application Link
+Space in the workshop is limited, and available slots will be asigned to those XXXX. Please complete the online registration form on or before Friday, March 13, 2020:
 https://forms.gle/bz1iGviCA4WsAWyw8
