@@ -8,10 +8,10 @@ Additionally, the program will feature a symposium where guest speakers will hig
 ## Introduction of Speakers 
 ### Michael Kearney
 
-### Jennifer Pan
+### Jennifer Pan http://jenpan.com/
 
 Jennifer Pan is an Assistant Professor of Communication at Stanford University. Her research is at the intersection of political communication, computational social science, and authoritarian politics. Pan focuses on how autocrats control information to shape public preferences and behaviors in the digital age, using experimental and computational methods with large-scale datasets on political activity in China and other non-democratic regimes. Pan received her Ph.D. from Harvard University’s Department of Government, and she received her A.B. from the Woodrow Wilson School of Public and International Affairs at Princeton University. 
-Website: http://jenpan.com/
+
 
 ### Chris Vargo
 
@@ -23,7 +23,7 @@ Saudi Arabia has imprisoned and tortured activists, religious leaders, and journ
 ## 2-Day Workshop on April 3-4, 2020
 
 || April 3rd, 2020  (Fri)  | April 4th, 2020  (Sat)|
-| ------------- | :-------------: | :-------------: |
+| ----------------------- | :-------------: | :-------------: |
 | 9:30 am - 10:45 am |**Introductory Workshop: Web Scraping  + API** Dr. Margaret Ng, Department of Journalism|**Introductory Workshop: Network Analysis** Dr. Harsh Taneja, Department of Advertising  |
 | 10:45 am - 11am | *Break*  |
 | 11 am - 12:15 pm | **Introductory Workshop: Text Analysis** Dr. JungHwan Yang, Department of Communication  |**Research Talk:** Dr. Chris Vargo, University of Colorado Boulder |
