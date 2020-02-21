@@ -16,11 +16,6 @@ Jennifer Pan is an Assistant Professor of Communication at Stanford University. 
 
 ### Chris Vargo
 
-## Research Talks
-### Jennifer Pan: How Saudi Crackdowns Fail to Silence Online Dissent
-
-Saudi Arabia has imprisoned and tortured activists, religious leaders, and journalists for voicing dissent online. This reflects a growing worldwide trend in the use of physical repression to censor online speech. In this paper, we systematically examine the consequences of imprisoning well-known Saudis for online dissent by analyzing over 300 million tweets as well as detailed Google search data from 2010 to 2017 using automated text analysis and crowd-sourced human evaluation of content. We find that repression deterred imprisoned Saudis from continuing to dissent online. However, it did not suppress dissent overall.
-
 ## 2-Day Workshop on April 3-4, 2020
 
 |&nbsp;&nbsp;&nbsp;| April 3rd, 2020 (Fri)| April 4th, 2020 (Sat)|
@@ -32,6 +27,11 @@ Saudi Arabia has imprisoned and tortured activists, religious leaders, and journ
 | 1:30-2:45pm | **`Research Talk:`**<br/> **How Saudi Crackdowns Fail to Silence Online Dissent**<br/> Dr. Jennifer Pan, Stanford University ||
 | 2:45-3pm | *Break* ||
 | 3-4:15pm | **`Research Talk`:**<br/> Dr. Mike Kearney, University of Missouri ||
+
+## Research Talks
+### Jennifer Pan: How Saudi Crackdowns Fail to Silence Online Dissent
+
+Saudi Arabia has imprisoned and tortured activists, religious leaders, and journalists for voicing dissent online. This reflects a growing worldwide trend in the use of physical repression to censor online speech. In this paper, we systematically examine the consequences of imprisoning well-known Saudis for online dissent by analyzing over 300 million tweets as well as detailed Google search data from 2010 to 2017 using automated text analysis and crowd-sourced human evaluation of content. We find that repression deterred imprisoned Saudis from continuing to dissent online. However, it did not suppress dissent overall.
 
 ## Application Link
 Space in the workshop is limited, and available slots will be asigned to those XXXX. Please complete the online registration form on or before Friday, March 13, 2020:
