@@ -10,8 +10,15 @@ Additionally, the program will feature a symposium where guest speakers will hig
 
 ### Jennifer Pan
 
+Jennifer Pan is an Assistant Professor of Communication at Stanford University. Her research is at the intersection of political communication, computational social science, and authoritarian politics. Pan focuses on how autocrats control information to shape public preferences and behaviors in the digital age, using experimental and computational methods with large-scale datasets on political activity in China and other non-democratic regimes. Pan received her Ph.D. from Harvard University’s Department of Government, and she received her A.B. from the Woodrow Wilson School of Public and International Affairs at Princeton University. 
+### Website: http://jenpan.com/
+
 ### Chris Vargo
 
+## Presentations
+### How Saudi Crackdowns Fail to Silence Online Dissent by Jennifer Pan
+
+Saudi Arabia has imprisoned and tortured activists, religious leaders, and journalists for voicing dissent online. This reflects a growing worldwide trend in the use of physical repression to censor online speech. In this paper, we systematically examine the consequences of imprisoning well-known Saudis for online dissent by analyzing over 300 million tweets as well as detailed Google search data from 2010 to 2017 using automated text analysis and crowd-sourced human evaluation of content. We find that repression deterred imprisoned Saudis from continuing to dissent online. However, it did not suppress dissent overall.
 
 ## 2-Day Workshop on April 3-4, 2020
 ### Day 1: April 3, 2020 
