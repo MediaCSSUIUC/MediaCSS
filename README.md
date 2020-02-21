@@ -23,11 +23,11 @@ Saudi Arabia has imprisoned and tortured activists, religious leaders, and journ
 ## 2-Day Workshop on April 3-4, 2020
 
 || April 3rd, 2020  (Fri)  | April 4th, 2020  (Sat)|
-| ------------- | :-------------: | ------------- |
+| ------------- | :-------------: | :-------------: |
 |9:30 am - 10:45 am |**Introductory Workshop: Web Scraping  + API** Dr. Margaret Ng, Department of Journalism|**Introductory Workshop: Network Analysis** Dr. Harsh Taneja, Department of Advertising  |
-| 10:45 am - 11am  | Break  |
+| 10:45 am - 11am  | *Break | Break*  |
 | 11 am - 12:15 pm  | **Introductory Workshop: Text Analysis** Dr. JungHwan Yang, Department of Communication  |**Research Talk:** Dr. Chris Vargo, University of Colorado Boulder |
-| 12:30 pm - 1:30 pm  | Lunch (provided)  |
+| 12:30 pm - 1:30 pm  | *Lunch (provided) | Lunch (provided)*  |
 | 1:30 pm - 2:45 pm | **Research Talk: How Saudi Crackdowns Fail to Silence Online Dissent** Dr. Jennifer Pan, Stanford University ||
 | 3:00 pm - 4:15pm | **Research Talk:** Dr. Mike Kearney, University of Missouri ||
 
