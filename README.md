@@ -36,5 +36,5 @@ Jennifer Pan is an Assistant Professor of Communication at Stanford University. 
 Saudi Arabia has imprisoned and tortured activists, religious leaders, and journalists for voicing dissent online. This reflects a growing worldwide trend in the use of physical repression to censor online speech. In this paper, we systematically examine the consequences of imprisoning well-known Saudis for online dissent by analyzing over 300 million tweets as well as detailed Google search data from 2010 to 2017 using automated text analysis and crowd-sourced human evaluation of content. We find that repression deterred imprisoned Saudis from continuing to dissent online. However, it did not suppress dissent overall.
 
 ## Application Link
-Space in the workshop is limited, and available slots will be assigned to students who would highly benefit from this workshop. Please complete the online registration form on or before Friday noon, March 6, 2020 (Early application is highly recommended).
+Space in the workshop is limited. Please complete the online registration form on or before **Friday noon, March 6, 2020** (Early application is highly recommended).
 https://forms.gle/bz1iGviCA4WsAWyw8
