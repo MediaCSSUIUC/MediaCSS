@@ -19,7 +19,7 @@ https://forms.gle/bz1iGviCA4WsAWyw8
 | 9:30-10:45am |**`Introductory Workshop:`**<br/> **Web Scraping  + API** <br/> Dr. Margaret Ng, Department of Journalism|**`Introductory Workshop:`**<br/> **Network Analysis**<br/>Dr. Harsh Taneja, Department of Advertising   |
 | 10:45-11am | *Break*  |*Break*  |
 | 11-12:15pm | **`Introductory Workshop:`**<br/> **Text Analysis** <br/>Dr. JungHwan Yang, Department of Communication  |**`Research Talk`:**<br/>**A Computational Case Study of Russian-Linked Facebook and Instagram Content** <br/>Dr. Chris Vargo, University of Colorado Boulder |
-| 12:30-1:30pm |   *Lunch (provided)*  <img width=400/>|*Lunch (provided)* |
+| 12:30-1:30pm |   *Lunch (provided)*  <img width=450/>|*Lunch (provided)* |
 | 1:30-2:45pm | **`Research Talk:`**<br/> **How Saudi Crackdowns Fail to Silence Online Dissent**<br/> Dr. Jennifer Pan, Stanford University ||
 | 2:45-3pm | *Break* ||
 | 3-4:15pm | **`Research Talk`:**<br/> Dr. Mike Kearney, University of Missouri ||
