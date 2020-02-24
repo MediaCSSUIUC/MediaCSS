@@ -14,18 +14,9 @@ https://forms.gle/bz1iGviCA4WsAWyw8
 
 ## Schedule
 
-<style>
-table th:first-of-type {
-    width: 4cm;
-}
-table th:nth-of-type(2) {
-    width: 150pt;
-}
-table th:nth-of-type(3) {
-    width: 8em;
-}
+
 </style>
-|&nbsp;&nbsp;&nbsp;| April 3rd, 2020 (Fri)| April 4th, 2020 (Sat)|
+|<img width=200/>| April 3rd, 2020 (Fri)| April 4th, 2020 (Sat)|
 | :----------------------- | :-------------: | :-------------: |
 | 9:30-10:45am |**`Introductory Workshop:`**<br/> **Web Scraping  + API** <br/> Dr. Margaret Ng, Department of Journalism|**`Introductory Workshop:`**<br/> **Network Analysis**<br/>Dr. Harsh Taneja, Department of Advertising   |
 | 10:45-11am | *Break*  |*Break*  |
