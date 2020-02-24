@@ -3,7 +3,7 @@
 How can scholars and analysts of media, make use of the massive available (digital) data? 
 Our two-day workshop introduces methods of computational social science(CSS) to graduate students (both MA and Ph.D.), advanced undergraduates, and interested faculty in media on how to obtain, organize, and analyze commonly available data from online sources.
 A research symposium featuring leading communication scholars using computational methods accompanies the workshop.
-## Dates: April 3-4 2020
+## Dates: April 3-4, 2020
 ## Venue: University of Illinois Urbana-Chamapign (Gregory Hall 810 S Wright St Urbana IL)
 
 **`Introductory Workshop`** is only open to 10-15 participants and will be held at Gregory Hall 123. **`Research symposium`** is open to public and will be held at Gregory Hall 100.
@@ -17,7 +17,7 @@ Dr. Jennifer Pan is an Assistant Professor of Communication at Stanford Universi
 
 
 ### Chris Vargo [http://chrisjvargo.com](http://chrisjvargo.com)
-<img align="left" width="100" src="http://chrisjvargo.com/wp-content/uploads/2014/11/CU-Headshot.jpg">
+<img align="left" width="200" src="http://chrisjvargo.com/wp-content/uploads/2014/11/CU-Headshot.jpg">
 Dr. Chris J. Vargo is an assistant professor specializing in data analytics and digital advertising. Chris employs the use of computer science methods to investigate social media data using theories from communication, psychology and political science. Research methods of specialization include: data mining, machine learning, computer-assisted content analysis, data scraping, APIs, investigative statistics, prescriptive and predictive analytics, data forecasting, network analysis, Python, information retrieval and computer automation. Chris has three degrees in Advertising & Public Relations: a PhD from The University of North Carolina at Chapel Hill, an MA from The University of Alabama and a BA from The Pennsylvania State University. 
 
 ## 2-Day Workshop on April 3-4, 2020
