@@ -34,6 +34,8 @@ Jennifer Pan is an Assistant Professor of Communication at Stanford University. 
 
 Saudi Arabia has imprisoned and tortured activists, religious leaders, and journalists for voicing dissent online. This reflects a growing worldwide trend in the use of physical repression to censor online speech. In this paper, we systematically examine the consequences of imprisoning well-known Saudis for online dissent by analyzing over 300 million tweets as well as detailed Google search data from 2010 to 2017 using automated text analysis and crowd-sourced human evaluation of content. We find that repression deterred imprisoned Saudis from continuing to dissent online. However, it did not suppress dissent overall.
 
+<br/>
+
 ### Dr. Chris Vargo [http://chrisjvargo.com](http://chrisjvargo.com)
 <img align="left" width="200" src="http://chrisjvargo.com/wp-content/uploads/2014/11/CU-Headshot.jpg">
 Chris J. Vargo is an assistant professor specializing in data analytics and digital advertising. Chris employs the use of computer science methods to investigate social media data using theories from communication, psychology and political science. Research methods of specialization include: data mining, machine learning, computer-assisted content analysis, data scraping, APIs, investigative statistics, prescriptive and predictive analytics, data forecasting, network analysis, Python, information retrieval and computer automation. Chris has three degrees in Advertising & Public Relations: a PhD from The University of North Carolina at Chapel Hill, an MA from The University of Alabama and a BA from The Pennsylvania State University. 
