@@ -1,16 +1,15 @@
 # Computational Methods in the Study of Media:<br/> An Introductory Workshop And Research Symposium
 
 How can scholars and analysts of media, make use of the massive available (digital) data? 
-Our two-day workshop introduces methods of computational social science (CSS) to graduate students (both MA and Ph.D.), advanced undergraduates, and interested faculty in media on how to obtain, organize, and analyze commonly available data from online sources.
-A research symposium featuring leading communication scholars using computational methods accompanies the workshop.
+Our two-day workshop introduces methods of computational social science (CSS) to graduate students (both MA and Ph.D.), advanced undergraduates, and interested faculty in media on how to obtain, organize, and analyze commonly available data from online sources. A research symposium featuring leading communication scholars using computational methods accompanies the workshop.
 
 
 
-#### Dates: April 3-4, 2020
-#### Venue: Gregory Hall, University of Illinois Urbana-Chamapign 
+## Dates: April 3-4, 2020
+## Venue: Gregory Hall, University of Illinois Urbana-Chamapign 
 **`Introductory Workshop`** is only open to 10-15 participants and will be held at Gregory Hall 123. <br/> **`Research Symposium`** is open to public and will be held at Gregory Hall 100.
 #### Sponsor: College of Media, University of Illinois Urbana-Chamapign 
-#### Workshop Organizers: Dr. Margaret Ng ([ymn@illinois.edu](mailto:ymn@illinois.edu))& Dr. Harsh Taneja ([harsht@illinois.edu](mailto:harsht@illinois.edu))
+#### Workshop Organizers: Dr. Margaret Ng ([ymn@illinois.edu](mailto:ymn@illinois.edu)) & Dr. Harsh Taneja ([harsht@illinois.edu](mailto:harsht@illinois.edu))
 
 
 ## Application Link
