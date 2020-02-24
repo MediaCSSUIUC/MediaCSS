@@ -25,15 +25,11 @@ https://forms.gle/bz1iGviCA4WsAWyw8
 | 3-4:15pm | **`Research Talk`:**<br/> Dr. Mike Kearney, University of Missouri ||
 
 <table>
+  
   <tr>
     <td>
-        
+        &nbsp;
     </td>
-     <td>
-        
-    </td>
-  </tr>
-  <tr>
     <td>
         April 3rd, 2020 (Fri)   
     </td>
