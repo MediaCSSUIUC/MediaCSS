@@ -1,7 +1,7 @@
 # Computational Methods in the Study of Media:<br/> An Introductory Workshop And Research Symposium
 
 How can scholars and analysts of media, make use of the massive available (digital) data? 
-Our two-day workshop introduces methods of computational social science(CSS) to graduate students (both MA and Ph.D.), advanced undergraduates, and interested faculty in media on how to obtain, organize, and analyze commonly available data from online sources.
+Our two-day workshop introduces methods of computational social science (CSS) to graduate students (both MA and Ph.D.), advanced undergraduates, and interested faculty in media on how to obtain, organize, and analyze commonly available data from online sources.
 A research symposium featuring leading communication scholars using computational methods accompanies the workshop.
 ## Dates: April 3-4, 2020
 ## Venue: University of Illinois Urbana-Chamapign 
@@ -25,11 +25,9 @@ https://forms.gle/bz1iGviCA4WsAWyw8
 | 3-4:15pm | **`Research Talk`:**<br/> Dr. Mike Kearney, University of Missouri ||
 
 <table>
-  <col width="200">
-  <col width="200">
-  <col width="200">
+
   <tr>
-      <th>&nbsp;</th> <th>April 3rd, 2020 (Fri)</th><th>April 4th, 2020 (Sat) </th>
+      <th style="width:20%">&nbsp;</th> <th style="width:40%">April 3rd, 2020 (Fri)</th><th style="width:40%">April 4th, 2020 (Sat) </th>
   </tr>
   <tr>
       <td>9:30-10:45am</td><td><em>Introductory Workshop:</em><br/> <strong>Web Scraping  + API</strong><br/> Dr. Margaret  Ng, Department of Journalism</td><td><em>Introductory Workshop:</em><br/> <strong>Network Analysis</strong><br/>Dr. Harsh Taneja, Department of Advertising</td>
