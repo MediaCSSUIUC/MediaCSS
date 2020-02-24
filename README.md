@@ -23,8 +23,7 @@ Our two-day workshop introduces methods of computational social science (CSS) to
 ## Sponsor
 College of Media, University of Illinois Urbana-Chamapign 
 ## Workshop Organizers
-Dr. Margaret Ng ([ymn@illinois.edu](mailto:ymn@illinois.edu))
-Dr. Harsh Taneja ([harsht@illinois.edu](mailto:harsht@illinois.edu))
+Dr. Margaret Ng ([ymn@illinois.edu](mailto:ymn@illinois.edu)) & Dr. Harsh Taneja ([harsht@illinois.edu](mailto:harsht@illinois.edu))
 
 ## Our Guest Speakers
 ### Michael Kearney
