@@ -25,7 +25,7 @@ https://forms.gle/bz1iGviCA4WsAWyw8
 | 3-4:15pm | **`Research Talk`:**<br/> Dr. Mike Kearney, University of Missouri ||
 
 <table>
-  <col width="150">
+  <col width="200">
   <col width="200">
   <col width="200">
   <tr>
