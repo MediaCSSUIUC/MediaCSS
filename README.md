@@ -2,7 +2,10 @@
 
 How can scholars and analysts of media, make use of the massive available (digital) data? 
 
-Our two-day workshop introduces methods of computational social science (CSS) on how to obtain, organize, and analyze commonly available data from online sources. A research symposium featuring leading communication scholars using computational methods accompanies the workshop.
+Our two-day workshop introduces methods of computational social science (CSS) on how to obtain, organize, and analyze commonly available data from online sources. 
+
+A research symposium featuring leading communication scholars using computational methods accompanies the workshop.
+
 ###Intended Audience: Graduate Students (MA and PhD), Advanced Undergrduates and Interested Faculty. 
 ## Dates: April 3-4, 2020
 ## Venue: University of Illinois Urbana-Chamapign 
