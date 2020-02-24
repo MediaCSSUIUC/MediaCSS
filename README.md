@@ -1,12 +1,11 @@
 # Computational Methods in the Study of Media:<br/> An Introductory Workshop And Research Symposium
 
 How can scholars and analysts of media, make use of the massive available (digital) data? 
-
-Our two-day workshop introduces methods of computational social science (CSS) on how to obtain, organize, and analyze commonly available data from online sources. 
+<br/>Our two-day workshop introduces methods of computational social science (CSS) on how to obtain, organize, and analyze commonly available data from online sources. 
 
 A research symposium featuring leading communication scholars using computational methods accompanies the workshop.
 
-###Intended Audience: Graduate Students (MA and PhD), Advanced Undergrduates and Interested Faculty. 
+## Intended Audience: Graduate Students (MA and PhD), Advanced Undergrduates and Interested Faculty. 
 ## Dates: April 3-4, 2020
 ## Venue: University of Illinois Urbana-Chamapign 
 **`Introductory Workshop`** is only open to 10-15 participants and will be held at Gregory Hall 123. To apply fill https://forms.gle/bz1iGviCA4WsAWyw8 <br/> **`Research Symposium`** is open to public and will be held at Gregory Hall 100.
