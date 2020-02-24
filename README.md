@@ -25,11 +25,11 @@ https://forms.gle/bz1iGviCA4WsAWyw8
 | 3-4:15pm | **`Research Talk`:**<br/> Dr. Mike Kearney, University of Missouri ||
 
 <table>
-  <col width="100">
-  <col width="180">
-  <col width="180">
+  <col width="150">
+  <col width="200">
+  <col width="200">
   <tr>
-      <td>&nbsp;</td> <th>April 3rd, 2020 (Fri)</th><tdh>April 4th, 2020 (Sat) </th>
+      <th>&nbsp;</th> <th>April 3rd, 2020 (Fri)</th><tdh>April 4th, 2020 (Sat) </th>
   </tr>
   <tr>
       <td>9:30-10:45am</td><td><em>Introductory Workshop:</em><br/> <strong>Web Scraping  + API</strong><br/> Dr. Margaret  Ng, Department of Journalism</td><td><em>Introductory Workshop:</em><br/> <strong>Network Analysis</strong><br/>Dr. Harsh Taneja, Department of Advertising</td>
@@ -47,10 +47,10 @@ https://forms.gle/bz1iGviCA4WsAWyw8
       <td>1:30-2:45pm </td><td><em>Research Talk:</em><br/> <strong>How Saudi Crackdowns Fail to Silence Online Dissent</strong><br/>Dr. Jennifer Pan, Stanford University </td><td>&nbsp;</td>
   </tr>
   <tr>
-      <td> 2:45-3pm  </td><td>Break </td><td>&nbsp;</td>
+      <td>2:45-3pm</td><td>Break </td><td>&nbsp;</td>
   </tr>
   <tr>
-      <td> 3-4:15pm</td> <td><em>Research Talk:</em><br/> <strong>XXX</strong><br/>Dr. Mike Kearney, University of Missouri</td><td>&nbsp;</td>
+      <td>3-4:15pm</td><td><em>Research Talk:</em><br/><strong>XXX</strong><br/>Dr. Mike Kearney, University of Missouri</td><td>&nbsp;</td>
   </tr>
 </table>
 
