@@ -14,8 +14,8 @@ https://forms.gle/bz1iGviCA4WsAWyw8
 
 ## Schedule
 
-|<img width=300/>| April 3rd, 2020 (Fri)<img width=600/>| April 4th, 2020 (Sat)|
-| :----------------------- | :-------------: | :-------------: |
+|<img width=300/>| April 3rd, 2020 (Fri)| April 4th, 2020 (Sat)|
+| :----------------------- | :-------------: <img width=600/>| :-------------: |
 | 9:30-10:45am |**`Introductory Workshop:`**<br/> **Web Scraping  + API** <br/> Dr. Margaret Ng, Department of Journalism|**`Introductory Workshop:`**<br/> **Network Analysis**<br/>Dr. Harsh Taneja, Department of Advertising   |
 | 10:45-11am | *Break*  |*Break*  |
 | 11-12:15pm | **`Introductory Workshop:`**<br/> **Text Analysis** <br/>Dr. JungHwan Yang, Department of Communication  |**`Research Talk`:**<br/>**A Computational Case Study of Russian-Linked Facebook and Instagram Content** <br/>Dr. Chris Vargo, University of Colorado Boulder |
