@@ -13,6 +13,7 @@ A research symposium featuring leading communication scholars using computationa
 
 ### Jennifer Pan [http://jenpan.com/](http://jenpan.com/)
 
+<img align="left" width="200" src="https://comm.stanford.edu/mm/2014/10/JenPan.jpg"> 
 Dr. Jennifer Pan is an Assistant Professor of Communication at Stanford University. Her research is at the intersection of political communication, computational social science, and authoritarian politics. Pan focuses on how autocrats control information to shape public preferences and behaviors in the digital age, using experimental and computational methods with large-scale datasets on political activity in China and other non-democratic regimes. Pan received her Ph.D. from Harvard University’s Department of Government, and she received her A.B. from the Woodrow Wilson School of Public and International Affairs at Princeton University. 
 
 
