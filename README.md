@@ -6,8 +6,7 @@ Our two-day workshop introduces methods of computational social science (CSS) to
 ## Dates: April 3-4, 2020
 ## Venue: University of Illinois Urbana-Chamapign 
 **`Introductory Workshop`** is only open to 10-15 participants and will be held at Gregory Hall 123. <br/> **`Research Symposium`** is open to public and will be held at Gregory Hall 100.
-### Sponsor: College of Media, University of Illinois Urbana-Chamapign 
-### Workshop Organizers: Dr. Margaret Ng ([ymn@illinois.edu](mailto:ymn@illinois.edu)) & Dr. Harsh Taneja ([harsht@illinois.edu](mailto:harsht@illinois.edu))
+
 
 ## Schedule
 
@@ -21,7 +20,11 @@ Our two-day workshop introduces methods of computational social science (CSS) to
 | 2:45 - 3:00pm | *Break* <img width=450/>||
 | 3:00 - 4:15pm | **`Research Talk`:**<br/> Dr. Mike Kearney, University of Missouri ||
 
-
+## Sponsor
+College of Media, University of Illinois Urbana-Chamapign 
+## Workshop Organizers
+Dr. Margaret Ng ([ymn@illinois.edu](mailto:ymn@illinois.edu))
+Dr. Harsh Taneja ([harsht@illinois.edu](mailto:harsht@illinois.edu))
 
 ## Our Guest Speakers
 ### Michael Kearney
