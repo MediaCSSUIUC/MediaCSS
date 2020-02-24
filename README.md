@@ -25,9 +25,11 @@ https://forms.gle/bz1iGviCA4WsAWyw8
 | 3-4:15pm | **`Research Talk`:**<br/> Dr. Mike Kearney, University of Missouri ||
 
 <table>
-  
+  <col width="100">
+  <col width="180">
+  <col width="180">
   <tr>
-      <td>&nbsp;</td> <td>April 3rd, 2020 (Fri)</td><td>April 4th, 2020 (Sat) </td>
+      <td>&nbsp;</td> <th>April 3rd, 2020 (Fri)</th><tdh>April 4th, 2020 (Sat) </th>
   </tr>
   <tr>
       <td>9:30-10:45am</td><td><em>Introductory Workshop:</em><br/> <strong>Web Scraping  + API</strong><br/> Dr. Margaret  Ng, Department of Journalism</td><td><em>Introductory Workshop:</em><br/> <strong>Network Analysis</strong><br/>Dr. Harsh Taneja, Department of Advertising</td>
@@ -48,7 +50,7 @@ https://forms.gle/bz1iGviCA4WsAWyw8
       <td> 2:45-3pm  </td><td>Break </td><td>&nbsp;</td>
   </tr>
   <tr>
-      <td> 2:45-3pm  </td><em>Research Talk:</em><br/> <strong>XXX</strong><br/>Dr. Mike Kearney, University of Missouri</td><td>&nbsp;</td>
+      <td> 3-4:15pm</td> <td><em>Research Talk:</em><br/> <strong>XXX</strong><br/>Dr. Mike Kearney, University of Missouri</td><td>&nbsp;</td>
   </tr>
 </table>
 
