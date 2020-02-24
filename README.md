@@ -39,7 +39,13 @@ https://forms.gle/bz1iGviCA4WsAWyw8
   </tr>
   <tr>
     <td>
-           
+      9:30-10:45am      
+    </td>
+    <td>
+     **`Introductory Workshop:`**<br/> **Web Scraping  + API** <br/> Dr. Margaret Ng, Department of Journalism      
+    </td>
+    <td>
+      **`Introductory Workshop:`**<br/> **Network Analysis**<br/>Dr. Harsh Taneja, Department of Advertising       
     </td>
   </tr>
 </table>
