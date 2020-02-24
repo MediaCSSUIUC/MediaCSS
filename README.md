@@ -27,9 +27,28 @@ https://forms.gle/bz1iGviCA4WsAWyw8
 <table>
   
   <tr>
-    <td>&nbsp;</td> <td>April 3rd, 2020 (Fri)</td><td>April 4th, 2020 (Sat) </td>
+      <td>&nbsp;</td> <td>April 3rd, 2020 (Fri)</td><td>April 4th, 2020 (Sat) </td>
   </tr>
-  <tr><td>9:30-10:45am</td><td><em>Introductory Workshop:</em><br/> <strong>Web Scraping  + API</strong><br/> Dr. Margaret Ng, Department of Journalism</td><td><em>Introductory Workshop:</em><br/> <strong>Network Analysis</strong><br/>Dr. Harsh Taneja, Department of Advertising</td>
+  <tr>
+      <td>9:30-10:45am</td><td><em>Introductory Workshop:</em><br/> <strong>Web Scraping  + API</strong><br/> Dr. Margaret  Ng, Department of Journalism</td><td><em>Introductory Workshop:</em><br/> <strong>Network Analysis</strong><br/>Dr. Harsh Taneja, Department of Advertising</td>
+  </tr>
+  <tr>
+      <td>10:45-11am </td> <td> Break</td><td>Break</td>
+  </tr>
+   <tr>
+      <td>11-12:15pm</td><td><em>Introductory Workshop:</em><br/> <strong>Text Analysis</strong><br/>Dr. JungHwan Yang, Department of Communication</td><td><em>Research Talk</em><br/> <strong>A Computational Case Study of Russian-Linked Facebook and Instagram Content</strong><br/>Dr. Chris Vargo, University of Colorado Boulder </td>
+  </tr>
+   <tr>
+      <td>12:30-1:30pm</td> <td>Lunch (provided)</td><td> Lunch (provided)</td>
+  </tr>
+   <tr>
+      <td>1:30-2:45pm </td><td><em>Research Talk:</em><br/> <strong>How Saudi Crackdowns Fail to Silence Online Dissent</strong><br/>Dr. Jennifer Pan, Stanford University </td><td>&nbsp;</td>
+  </tr>
+  <tr>
+      <td> 2:45-3pm  </td><td>Break </td><td>&nbsp;</td>
+  </tr>
+  <tr>
+      <td> 2:45-3pm  </td><em>Research Talk:</em><br/> <strong>XXX</strong><br/>Dr. Mike Kearney, University of Missouri</td><td>&nbsp;</td>
   </tr>
 </table>
 
