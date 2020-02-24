@@ -3,18 +3,11 @@
 How can scholars and analysts of media, make use of the massive available (digital) data? 
 Our two-day workshop introduces methods of computational social science (CSS) to graduate students (both MA and Ph.D.), advanced undergraduates, and interested faculty in media on how to obtain, organize, and analyze commonly available data from online sources. A research symposium featuring leading communication scholars using computational methods accompanies the workshop.
 
-
-
 ## Dates: April 3-4, 2020
 ## Venue: Gregory Hall, University of Illinois Urbana-Chamapign 
 **`Introductory Workshop`** is only open to 10-15 participants and will be held at Gregory Hall 123. <br/> **`Research Symposium`** is open to public and will be held at Gregory Hall 100.
 #### Sponsor: College of Media, University of Illinois Urbana-Chamapign 
 #### Workshop Organizers: Dr. Margaret Ng ([ymn@illinois.edu](mailto:ymn@illinois.edu)) & Dr. Harsh Taneja ([harsht@illinois.edu](mailto:harsht@illinois.edu))
-
-
-## Application Link
-Space in the workshop is limited. Please complete the online registration form on or before **Friday noon, March 6, 2020** (Early application is highly recommended).
-https://forms.gle/bz1iGviCA4WsAWyw8
 
 ## Schedule
 
@@ -52,4 +45,7 @@ Chris J. Vargo is an assistant professor specializing in data analytics and digi
 
 This study examined political advertisements placed by the Russian-based Internet Research Agency on Facebook and Instagram. Advertisements were computationally analyzed for four rhetorical techniques presumed to elicit anger and fear: negative identity-based language, inflammatory language, obscene language, and threatening language. Congruent with extant research on arousing emotional responses, advertising clickthrough rates were positively associated with inflammatory, obscene, and threatening language. Surprisingly, however, a negative relationship between clickthrough rate and the use of negative identity-based language was observed. Additional analyses showed that the advertisements were engaged with at rates that exceed industry benchmarks, and that clickthrough rates increased over time. 
 
+## Application Link
+Space in the workshop is limited. Please complete the online registration form on or before **Friday noon, March 6, 2020** (Early application is highly recommended).
+https://forms.gle/bz1iGviCA4WsAWyw8
 
