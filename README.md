@@ -13,8 +13,21 @@ Space in the workshop is limited. Please complete the online registration form o
 https://forms.gle/bz1iGviCA4WsAWyw8
 
 ## Schedule
-<table>
 
+<style>
+table th:first-of-type {
+    width: 20%;
+}
+table th:nth-of-type(2) {
+    width: 40%;
+}
+table th:nth-of-type(3) {
+    width: 40%;
+}
+</style>
+
+
+<table>
   <tr>
       <th style="width:100px">&nbsp;</th> <th style="width:40%">April 3rd, 2020 (Fri)</th><th style="width:40%">April 4th, 2020 (Sat) </th>
   </tr>
