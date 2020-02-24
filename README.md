@@ -5,7 +5,6 @@ Our two-day workshop introduces methods of computational social science(CSS) to 
 A research symposium featuring leading communication scholars using computational methods accompanies the workshop.
 ## Dates: April 3-4, 2020
 ## Venue: University of Illinois Urbana-Chamapign 
-### Gregory Hall 810 S Wright St Urbana IL
 
 **`Introductory Workshop`** is only open to 10-15 participants and will be held at Gregory Hall 123. <br/> **`Research symposium`** is open to public and will be held at Gregory Hall 100.
 
@@ -16,7 +15,7 @@ https://forms.gle/bz1iGviCA4WsAWyw8
 ## Schedule
 
 |&nbsp;&nbsp;&nbsp;| April 3rd, 2020 (Fri)| April 4th, 2020 (Sat)|
-| :----------------------- | :------------- | :------------- |
+| :----------------------- | :-------------: | :-------------: |
 | 9:30-10:45am |**`Introductory Workshop:`**<br/> **Web Scraping  + API** <br/> Dr. Margaret Ng, Department of Journalism|**`Introductory Workshop:`**<br/> **Network Analysis**<br/>Dr. Harsh Taneja, Department of Advertising   |
 | 10:45-11am | *Break*  |*Break*  |
 | 11-12:15pm | **`Introductory Workshop:`**<br/> **Text Analysis** <br/>Dr. JungHwan Yang, Department of Communication  |**`Research Talk`:**<br/>**A Computational Case Study of Russian-Linked Facebook and Instagram Content** <br/>Dr. Chris Vargo, University of Colorado Boulder |
