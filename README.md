@@ -6,7 +6,7 @@ A research symposium featuring leading communication scholars using computationa
 ## Dates: April 3-4, 2020
 ## Venue: University of Illinois Urbana-Chamapign 
 
-**`Introductory Workshop`** is only open to 10-15 participants and will be held at Gregory Hall 123. <br/> **`Research symposium`** is open to public and will be held at Gregory Hall 100.
+**`Introductory Workshop`** is only open to 10-15 participants and will be held at Gregory Hall 123. <br/> **`Research Symposium`** is open to public and will be held at Gregory Hall 100.
 
 ## Application Link
 Space in the workshop is limited. Please complete the online registration form on or before **Friday noon, March 6, 2020** (Early application is highly recommended).
@@ -23,6 +23,23 @@ https://forms.gle/bz1iGviCA4WsAWyw8
 | 1:30-2:45pm | **`Research Talk:`**<br/> **How Saudi Crackdowns Fail to Silence Online Dissent**<br/> Dr. Jennifer Pan, Stanford University ||
 | 2:45-3pm | *Break* ||
 | 3-4:15pm | **`Research Talk`:**<br/> Dr. Mike Kearney, University of Missouri ||
+
+<table>
+  <tr>
+    <td>
+        April 3rd, 2020 (Fri)   
+    </td>
+     <td>
+        April 4th, 2020 (Sat)   
+    </td>
+  </tr>
+  <tr>
+    <td>
+           
+    </td>
+  </tr>
+</table>
+
 
 
 ## Our Guest Speakers
