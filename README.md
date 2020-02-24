@@ -5,9 +5,9 @@ Our two-day workshop introduces methods of computational social science(CSS) to 
 A research symposium featuring leading communication scholars using computational methods accompanies the workshop.
 ## Dates: April 3-4, 2020
 ## Venue: University of Illinois Urbana-Chamapign 
-#### Gregory Hall 810 S Wright St Urbana IL
+### Gregory Hall 810 S Wright St Urbana IL
 
-**`Introductory Workshop`** is only open to 10-15 participants and will be held at Gregory Hall 123. **`Research symposium`** is open to public and will be held at Gregory Hall 100.
+**`Introductory Workshop`** is only open to 10-15 participants and will be held at Gregory Hall 123. <br/> **`Research symposium`** is open to public and will be held at Gregory Hall 100.
 
 ## Application Link
 Space in the workshop is limited. Please complete the online registration form on or before **Friday noon, March 6, 2020** (Early application is highly recommended).
