@@ -34,7 +34,7 @@ https://forms.gle/bz1iGviCA4WsAWyw8
 <img align="left" width="260" src="https://comm.stanford.edu/mm/2014/10/JenPan.jpg"> 
 Jennifer Pan is an Assistant Professor of Communication at Stanford University. Her research is at the intersection of political communication, computational social science, and authoritarian politics. Pan focuses on how autocrats control information to shape public preferences and behaviors in the digital age, using experimental and computational methods with large-scale datasets on political activity in China and other non-democratic regimes. Pan received her Ph.D. from Harvard University’s Department of Government, and she received her A.B. from the Woodrow Wilson School of Public and International Affairs at Princeton University. 
 
-#### `Research Talk: *How Saudi Crackdowns Fail to Silence Online Dissent*`
+#### `Research Talk: How Saudi Crackdowns Fail to Silence Online Dissent`
 
 Saudi Arabia has imprisoned and tortured activists, religious leaders, and journalists for voicing dissent online. This reflects a growing worldwide trend in the use of physical repression to censor online speech. In this paper, we systematically examine the consequences of imprisoning well-known Saudis for online dissent by analyzing over 300 million tweets as well as detailed Google search data from 2010 to 2017 using automated text analysis and crowd-sourced human evaluation of content. We find that repression deterred imprisoned Saudis from continuing to dissent online. However, it did not suppress dissent overall.
 
@@ -44,7 +44,7 @@ Saudi Arabia has imprisoned and tortured activists, religious leaders, and journ
 <img align="left" width="200" src="http://chrisjvargo.com/wp-content/uploads/2014/11/CU-Headshot.jpg">
 Chris J. Vargo is an assistant professor specializing in data analytics and digital advertising. Chris employs the use of computer science methods to investigate social media data using theories from communication, psychology and political science. Research methods of specialization include: data mining, machine learning, computer-assisted content analysis, data scraping, APIs, investigative statistics, prescriptive and predictive analytics, data forecasting, network analysis, Python, information retrieval and computer automation. Chris has three degrees in Advertising & Public Relations: a PhD from The University of North Carolina at Chapel Hill, an MA from The University of Alabama and a BA from The Pennsylvania State University. 
 
-#### `Research Talk: *A Computational Case Study of Russian-Linked Facebook and Instagram Content*`
+#### `Research Talk: A Computational Case Study of Russian-Linked Facebook and Instagram Content`
 
 This study examined political advertisements placed by the Russian-based Internet Research Agency on Facebook and Instagram. Advertisements were computationally analyzed for four rhetorical techniques presumed to elicit anger and fear: negative identity-based language, inflammatory language, obscene language, and threatening language. Congruent with extant research on arousing emotional responses, advertising clickthrough rates were positively associated with inflammatory, obscene, and threatening language. Surprisingly, however, a negative relationship between clickthrough rate and the use of negative identity-based language was observed. Additional analyses showed that the advertisements were engaged with at rates that exceed industry benchmarks, and that clickthrough rates increased over time. 
 
