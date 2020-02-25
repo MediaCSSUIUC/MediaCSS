@@ -26,9 +26,11 @@ A research symposium featuring leading communication scholars using computationa
 ## Sponsor
 College of Media, University of Illinois Urbana-Chamapign 
 ## Workshop Organizers
-[Dr. Margaret Ng](http://margaretnym.byethost7.com/PROJECTS.html) &  [Dr. Harsh Taneja](https://media.illinois.edu/advertising/taneja-harsh)
+[Dr. Margaret Ng](http://margaretnym.byethost7.com/PROJECTS.html), Department of Journalism
 <br/>
-Guest Instructor: [Dr. JungHwan Yang](https://communication.illinois.edu/directory/profile/junghwan)
+[Dr. Harsh Taneja](https://media.illinois.edu/advertising/taneja-harsh), Department of Advertising
+<br/>
+<strong>Guest Instructor:</strong> [Dr. JungHwan Yang](https://communication.illinois.edu/directory/profile/junghwan), Department of Communication 
 
 ## Our Guest Speakers (in order of their talks)
 
