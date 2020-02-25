@@ -29,14 +29,16 @@ College of Media, University of Illinois Urbana-Chamapign
 Dr. Margaret Ng ([ymn@illinois.edu](mailto:ymn@illinois.edu)) & Dr. Harsh Taneja ([harsht@illinois.edu](mailto:harsht@illinois.edu))
 
 ## Our Guest Speakers (in order of their talks)
-<img align="left" width="260" src="https://journalism.missouri.edu/wp-content/uploads/2017/08/mike-kearney-2017-600x800.jpg"> 
+<img align="left" width="200" src="https://journalism.missouri.edu/wp-content/uploads/2017/08/mike-kearney-2017-600x800.jpg"> 
 
-### Dr. Michael Kearney (https://mikewk.com)
+### Dr. Michael Kearney [https://mikewk.com](https://mikewk.com)
 Michael Kearney is an assistant professor at the University of Missouri where he holds a joint appointment in the School of Journalism and the Informatics Institute. His research examines the spread of political information through digital media using computational social scientific methods. Dr. Kearney teaches graduate courses in mass media theory, research methods, social media analytics, network analysis, and data science.
 
-#### Research Talk: Making Computational Methods Accessible for Communication Research: The Evolution of Open-Source R Packages 
+#### `Research Talk: Making Computational Methods Accessible for Communication Research: The Evolution of Open-Source R Packages` 
+
 Recent advancements in computational social science have made it possible and easier than ever before to study *at-scale* how people interact and behave in digital spaces. Unfortunately, these advances in computational methods–many of which have been translated or demonstrated in social scientific contexts exclusively by computer scientists–remain largely inaccessible (or at the very least technically intimidating) to those who study media but otherwise lack computational backgrounds. With this in mind, I present the evolution of several open-source, user-friendly R packages I have designed specifically for mass communication and media researchers. These tools include {rtweet} (an R client for collecting and analyzing data from Twitter's APIs), {textfeatures} (a text processing package designed for machine learning workflows), and {tweetbotornot2} (a scalable, performant Twitter bot machine-learning classifier).
 
+<br/>
 
 ### Dr. Jennifer Pan [http://jenpan.com/](http://jenpan.com/)
 
