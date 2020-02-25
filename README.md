@@ -29,7 +29,7 @@ College of Media, University of Illinois Urbana-Chamapign
 Dr. Margaret Ng ([ymn@illinois.edu](mailto:ymn@illinois.edu)) & Dr. Harsh Taneja ([harsht@illinois.edu](mailto:harsht@illinois.edu))
 
 ## Our Guest Speakers (in order of their talks)
-<img align="left" width="200" src="https://journalism.missouri.edu/wp-content/uploads/2017/08/mike-kearney-2017-600x800.jpg"> 
+<img align="left" width="180" src="https://journalism.missouri.edu/wp-content/uploads/2017/08/mike-kearney-2017-600x800.jpg"> 
 
 ### Dr. Michael Kearney [https://mikewk.com](https://mikewk.com)
 Michael Kearney is an assistant professor at the University of Missouri where he holds a joint appointment in the School of Journalism and the Informatics Institute. His research examines the spread of political information through digital media using computational social scientific methods. Dr. Kearney teaches graduate courses in mass media theory, research methods, social media analytics, network analysis, and data science.
