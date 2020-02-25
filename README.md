@@ -21,12 +21,13 @@ A research symposium featuring leading communication scholars using computationa
 | 12:30 - 1:30pm |  *Lunch (provided)*  |*Lunch (provided)* |
 | 1:30 - 2:45pm | **`Research Talk:`**<br/> **How Saudi Crackdowns Fail to Silence Online Dissent**<br/> Dr. Jennifer Pan, Stanford University ||
 | 2:45 - 3:00pm | *Break* <img width=450/>||
-| 3:00 - 4:15pm | **`Research Talk`:**<br/> Dr. Mike Kearney, University of Missouri ||
+| 3:00 - 4:15pm | **`Research Talk`:**The Evolution of Open-Source R Packages**<br/> Dr. Mike Kearney, University of Missouri ||
 
 ## Sponsor
 College of Media, University of Illinois Urbana-Chamapign 
 ## Workshop Organizers
-Dr. Margaret Ng ([ymn@illinois.edu](mailto:ymn@illinois.edu)) & Dr. Harsh Taneja ([harsht@illinois.edu](mailto:harsht@illinois.edu))
+[Dr. Margaret Ng](http://margaretnym.byethost7.com/PROJECTS.html) ([ymn@illinois.edu](mailto:ymn@illinois.edu)) &  [Dr. Harsh Taneja](https://media.illinois.edu/advertising/taneja-harsh)
+Guest Instructor: [Dr. JungHwan Yang](https://communication.illinois.edu/directory/profile/junghwan)
 
 ## Our Guest Speakers (in order of their talks)
 
@@ -62,4 +63,7 @@ This study examined political advertisements placed by the Russian-based Interne
 ## Application Link
 Space in the workshop is limited. Please complete the online registration form on or before **Friday 11:59 pm CST, March 6, 2020** (Early application is highly recommended).
 https://forms.gle/bz1iGviCA4WsAWyw8
+
+## Contact
+For questions, please feel free to contact Dr. Margaret Ng ([ymn@illinois.edu](mailto:ymn@illinois.edu)) & Dr. Harsh Taneja ([harsht@illinois.edu](mailto:harsht@illinois.edu))
 
