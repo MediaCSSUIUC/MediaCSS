@@ -21,7 +21,7 @@ A research symposium featuring leading communication scholars using computationa
 | 12:30 - 1:30pm |  *Lunch (provided)*  |*Lunch (provided)* |
 | 1:30 - 2:45pm | **`Research Talk:`**<br/> **How Saudi Crackdowns Fail to Silence Online Dissent**<br/> Dr. Jennifer Pan, Stanford University ||
 | 2:45 - 3:00pm | *Break* <img width=450/>||
-| 3:00 - 4:15pm | **`Research Talk`:**The Evolution of Open-Source R Packages**<br/> Dr. Mike Kearney, University of Missouri ||
+| 3:00 - 4:15pm | **`Research Talk`:**<br/>**The Evolution of Open-Source R Packages**<br/> Dr. Mike Kearney, University of Missouri ||
 
 ## Sponsor
 College of Media, University of Illinois Urbana-Chamapign 
