@@ -8,7 +8,7 @@ A research symposium featuring leading communication scholars using computationa
 ### Intended Audience: Graduate Students (MA and PhD), Advanced Undergrduates and Interested Faculty. 
 ### Dates: April 3-4, 2020
 ### Venue: University of Illinois Urbana-Chamapign 
-**`Introductory Workshop`** is only open to 10-15 participants and will be held at Gregory Hall 123. To apply fill https://forms.gle/bz1iGviCA4WsAWyw8 <br/> **`Research Symposium`** is open to public and will be held at Gregory Hall 100.
+**`Introductory Workshop`** is only open to 10-15 participants and will be held at **Gregory Hall 123**. To apply fill https://forms.gle/bz1iGviCA4WsAWyw8 <br/> **`Research Symposium`** is open to public and will be held at **Gregory Hall 100**.
 
 
 ## Schedule
