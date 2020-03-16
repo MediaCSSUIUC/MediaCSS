@@ -1,5 +1,6 @@
 # Computational Methods in the Study of Media:<br/> An Introductory Workshop And Research Symposium
-```diff - THE WORKSHOP STANDS SUSPENDED AND WILL RESCHEDULED FOR FALL 2020 ONCE THE EXTRAORDINARY CIRCUMSTANCES CREATED BY THE COVID-19 OUTBREAK BEGIN TO NORMALIZE```
+## THE WORKSHOP STANDS SUSPENDED AND WILL RESCHEDULED FOR FALL 2020 ONCE THE EXTRAORDINARY CIRCUMSTANCES CREATED BY THE COVID-19 OUTBREAK BEGIN TO NORMALIZE
+
 How can scholars and analysts of media, make use of the massive available (digital) data? 
 <br/>Our two-day workshop introduces methods of computational social science (CSS) on how to obtain, organize, and analyze commonly available data from online sources. 
 
